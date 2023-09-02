@@ -19,7 +19,3 @@ In Azure Active directory, creation of user in one AD tenant which termed as hom
 
 #### Best practice
 All subscription in single management group must trust one AD tenant better management, though multiple subscription across management groups could be linked to one Azure AD tenant.
-
-![group-vs-subs](./media/azuregroup-vs-subs.png)
-
-![subs-vs-ad](./media/azure-ad-vs-subs.png)
