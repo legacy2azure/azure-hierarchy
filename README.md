@@ -10,7 +10,7 @@ When an Azure account is created, it automatically generates one root management
 - Single subscription cannot simultaneously be associated to more than one management group.
 
 ![compare-group-subs](./media/compare-group-with-sub1.png)
-<img src="./media/compare-group-with-sub1.png" alt="drawing" style="width:200px;"/>
+<img src="./media/compare-group-with-sub1.png" alt="drawing" style="width:400px;"/>
 #### Azure AD tenant vs subscription. 
 - More than one subscription can be associated to one Azure AD tenant.
 - But one subscription cannot be associated to more than one AD tenant.
