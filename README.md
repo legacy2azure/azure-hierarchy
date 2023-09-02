@@ -8,7 +8,7 @@ When an Azure account is created, it automatically generates one root management
 ![group-vs-subs](./media/group-vs-subs.png)
 
 
-#### Azure AD tenant vs subscription. 
+#### Azure AD tenant vs subscriptions. 
 ![tenant-vs-subs](./media/tenant-vs-subs.png)
 
 #### Azure AD tenant vs management group
