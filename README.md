@@ -5,9 +5,6 @@ Let my simplify it.
 When an Azure account is created, it automatically generates one root management group and one Azure Active Directory tenant by default.
 
 #### Management group vs subscriptions
-- More than one management group can be created under single management group.
-- More than one subscription can be associated to single management group.
-- Single subscription cannot simultaneously be associated to more than one management group.
 ![group-vs-subs](./media/group-vs-subs.png)
 
 
