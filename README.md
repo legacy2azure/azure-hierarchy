@@ -17,5 +17,5 @@ It's important to clarify that while multiple subscriptions can be associated wi
 #### AD users vs Azure AD tenant
 In Azure Active directory, creation of user in one AD tenant which termed as home tenant and the same user can be invited as a guest user to other AD tenants but cannot be direct membership to multiple AD tenants. 
 
-#### Best practice
+#### Note
 All subscription in single management group must trust one AD tenant better management, though multiple subscription across management groups could be linked to one Azure AD tenant.
